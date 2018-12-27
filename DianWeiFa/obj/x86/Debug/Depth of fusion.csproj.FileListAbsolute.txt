@@ -1,0 +1,183 @@
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 副本\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 加滤波\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 - 加滤波、、、\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版+\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版++\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版+++\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\Depth of fusion.csproj.GenerateResource.Cache
+C:\Users\zwx\Desktop\随机角度 -修正版++++\DianWeiFa\obj\x86\Debug\Depth of fusion.csprojResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.0\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\obj\x86\Debug\Depth of fusion.csprojResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\obj\x86\Debug\Depth of fusion.csproj.GenerateResource.Cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.1\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\obj\x86\Debug\Depth of fusion.csprojResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2\DianWeiFa\obj\x86\Debug\Depth of fusion.csproj.GenerateResource.Cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\obj\x86\Debug\Depth of fusion.csprojResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.2（更改界面）\DianWeiFa\obj\x86\Debug\Depth of fusion.csproj.GenerateResource.Cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.3（增加焊缝种类）7（适用大焊缝\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sys\渗碳熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\bin\Debug\DianWeiFa.exe
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sys\熔深相关\软件\焊缝熔深1.4（增加焊缝种类增加探头种类）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\焊缝熔深1.4\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+E:\Project\焊缝熔深1.4\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+E:\Project\焊缝熔深1.4\DianWeiFa\bin\Debug\DianWeiFa.exe
+E:\Project\焊缝熔深1.4\DianWeiFa\bin\Debug\DianWeiFa.pdb
+E:\Project\焊缝熔深1.4\DianWeiFa\obj\x86\Debug\DepthOfFusion.Form1.resources
+E:\Project\焊缝熔深1.4\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+E:\Project\焊缝熔深1.4\DianWeiFa\obj\x86\Debug\Depth of fusion.csproj.GenerateResource.Cache

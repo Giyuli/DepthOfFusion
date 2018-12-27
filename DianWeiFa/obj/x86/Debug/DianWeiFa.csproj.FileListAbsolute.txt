@@ -1,0 +1,92 @@
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Documents and Settings\Administrator\桌面\dianweifa\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\电位法软件\DianWeiFa\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\李平暂时使用\DianWeiFa\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平暂时使用\备份3月20日\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\备份3月20日。2\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\备份3月20日。3\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\李平备份\备份3月20日。5\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\串口2017年5月1日修改\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\李平备份\串口2017年5月2日修改（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\共享单车\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Form1.resources
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb

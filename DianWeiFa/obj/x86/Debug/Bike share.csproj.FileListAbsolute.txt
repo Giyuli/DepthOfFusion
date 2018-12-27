@@ -1,0 +1,153 @@
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\Bike share.csprojResolveAssemblyReference.cache
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\Bike share.csproj.GenerateResource.Cache
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\pzh\Desktop\共享单车\单车备份\共享单车（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\毕设\单车备份\新建文件夹\DW（1）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改一）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（改2单步运算）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（12通道显示，加数据保存）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\bin\Debug\ZedGraph.dll
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平\新建文件夹 (5)\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\DW（修改三，A5  A5  FF含数据处理部分）（有延时）（8月9日，作废）\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\bin\Debug\DianWeiFa.exe
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\bin\Debug\DianWeiFa.pdb
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\李平定期保存\WX，备注，nt，延时的作用，8.10.11\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.LKY5MDE2VX2HCN8\Desktop\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.14\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+E:\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\bin\Debug\DianWeiFa.exe
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\bin\Debug\DianWeiFa.pdb
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\Bike share.csprojResolveAssemblyReference.cache
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+G:\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\Bike share.csproj.GenerateResource.Cache
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\新建文件夹 (4)\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zaixuebin\Desktop\焊缝软件（王炎祥改2017、3、7）\李平修改后的程序\李平定期保存\WX，矫正修改，nt，延时的作用，8.11.20\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\zaixuebin\Desktop\00\DianWeiFa\bin\Debug\DianWeiFa.pdb
+I:\翟学彬\00\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+I:\翟学彬\00\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+F:\翟学彬\00\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+F:\翟学彬\00\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zaixuebin\Desktop\00\00\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\00 -1 - 副本\00\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\00\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\00\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\00\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\00\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\00\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\00\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\00\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\00\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\00\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\bin\Debug\DianWeiFa.exe
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\bin\Debug\DianWeiFa.pdb
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\bikeshare.Form1.resources
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\DianWeiFa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\随机角度\DianWeiFa\obj\x86\Debug\GenerateResource.write.1.tlog
